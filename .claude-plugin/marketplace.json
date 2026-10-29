@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "vortex",
+  "description": "Plugins do Grupo Vortex para o Claude Code.",
+  "owner": {
+    "name": "Grupo Vortex",
+    "url": "https://github.com/GeraViral"
+  },
+  "plugins": [
+    {
+      "name": "site-pronto",
+      "description": "Monta um site animado com Claude Code em um comando: projeto Next.js com a biblioteca de animacao, um guia de design que tira a cara de IA do resultado, e o catalogo de componentes do 21st.dev ligado por MCP.",
+      "source": "./plugins/site-pronto",
+      "category": "web",
+      "tags": ["site", "landing-page", "design", "nextjs", "animacao"],
+      "homepage": "https://github.com/GeraViral/vortex-plugins/tree/main/plugins/site-pronto"
+    }
+  ]
+}

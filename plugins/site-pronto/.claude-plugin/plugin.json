@@ -1,0 +1,12 @@
+{
+  "name": "site-pronto",
+  "description": "Monta um site animado com Claude Code em um comando: projeto Next.js com a biblioteca de animacao, um guia de design que tira a cara de IA do resultado, e o catalogo de componentes do 21st.dev ligado por MCP.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Grupo Vortex",
+    "url": "https://github.com/GeraViral"
+  },
+  "homepage": "https://github.com/GeraViral/vortex-plugins/tree/main/plugins/site-pronto",
+  "license": "MIT",
+  "keywords": ["site", "landing-page", "nextjs", "design", "animacao"]
+}
